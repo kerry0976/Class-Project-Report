@@ -5,19 +5,15 @@ Here I showcase some of the final projects I've done in the past. It was a good 
 
 Here is the list:
 
-Undergraduate Projects at California Polytechnic State University, San Luis Obispo 
-Department of Aerospace Engineering 
+California Polytechnic State University, San Luis Obispo 
 
-AERO 401 Propulsion Final Project 
-Investigation of Minimum Length of Supersonic 2D Nozzle Design Using the Method of Characteristics
-Abstract:
+1) AERO 401 Propulsion 
 
-Graduate Projects at California Polytechnic State University, San Luis Obispo 
-Department of Economics 
+Project: Investigation of Minimum Length of Supersonic 2D Nozzle Design Using the Method of Characteristics
 
-GSE 512 Macroeconomic Analysis
-An Analysis of the Exit Problem Facing the Fed from Quantitative Easing on Inflation
-Abstract:
+2) GSE 512 Macroeconomic Analysis  
+
+Project: An Analysis of the Exit Problem Facing the Fed from Quantitative Easing on Inflation
 
 Graduate Projects at University of Minnesota Twin Cities
 
