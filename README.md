@@ -27,7 +27,7 @@ Here is the list:
 
 3) Navigation and Guidance System  - taught by Demoz Gebre-Egizabher 
 
-Project: **Relative Positioning Estimation using Double-Difference Carrier Phase Measurements with Integer Ambiguity Resolution**
+   Project: **Relative Positioning Estimation using Double-Difference Carrier Phase Measurements with Integer Ambiguity        Resolution**
 
 4) Introduction to Nonlinear Optimization - taught by Mingyi Hong 
 
