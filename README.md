@@ -5,7 +5,7 @@ Here I showcase some of the final projects I've done in the past. It was a good 
 
 Here is the list:
 
-California Polytechnic State University, San Luis Obispo 
+# California Polytechnic State University, San Luis Obispo 
 
 1) AERO 401 Propulsion 
 
@@ -15,7 +15,7 @@ Project: **Investigation of Minimum Length of Supersonic 2D Nozzle Design Using 
 
 Project: **An Analysis of the Exit Problem Facing the Fed from Quantitative Easing on Inflation**
 
-Graduate Projects at University of Minnesota Twin Cities
+# University of Minnesota Twin Cities
 
 1) Robust Control - taught by Dale Enns 
 
