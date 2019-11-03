@@ -9,7 +9,7 @@ Here is the list:
 
 1) AERO 401 Propulsion 
 
-Project: **Investigation of Minimum Length of Supersonic 2D Nozzle Design Using the Method of Characteristics**
+   Project: **Investigation of Minimum Length of Supersonic 2D Nozzle Design Using the Method of Characteristics**
 
 2) GSE 512 Macroeconomic Analysis  
 
