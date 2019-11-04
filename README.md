@@ -35,7 +35,7 @@ Here is the list:
    
 ## 3) Navigation and Guidance System  - taught by Demoz Gebre-Egizabher ## 
 
-   *Project*: **Relative Positioning Estimation using Double-Difference Carrier Phase Measurements with Integer Ambiguity                   Resolution**
+   **Relative Positioning Estimation using Double-Difference Carrier Phase Measurements with Integer Ambiguity                                Resolution**
    
    *Summary: Estmiating a static relative distance using double-difference carrier phase measurement was demonstrated. Different integer     ambiguity methods were compared.* 
 
