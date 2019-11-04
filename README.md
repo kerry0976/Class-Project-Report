@@ -11,7 +11,7 @@ Here is the list:
 
    **Investigation of Minimum Length of Supersonic 2D Nozzle Design Using the Method of Characteristics**
    
-   *Summary: Using Method of Characteristics to investiggate the minimum length of a supersonic 2D nozzle design.*
+   *Summary: Using Method of Characteristics to investigate the minimum length of a supersonic 2D nozzle design.*
 
 ## 2) Macroeconomic Analysis taught by Michael Marlow ## 
 
