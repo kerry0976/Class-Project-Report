@@ -1,7 +1,7 @@
 
 Hello, 
 
-Here are some of the final projects I have done in the past. It was a good learning experience even though they are not my primary research subjects. 
+Here are some of the final projects I have done in the past. It was a good learning experience even though they are not my primary research subjects. For details, please refer to the relevant PDF files. Thanks!
 
 Here is the list:
 
