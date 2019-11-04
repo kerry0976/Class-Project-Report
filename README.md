@@ -9,7 +9,7 @@ Here is the list:
 
 1) Propulsion - taught by Piyush M Mehta
 
-   ##**Investigation of Minimum Length of Supersonic 2D Nozzle Design Using the Method of Characteristics**##
+   **Investigation of Minimum Length of Supersonic 2D Nozzle Design Using the Method of Characteristics**
    
    *Summary: Using Method of Characteristics to investiggate the minimum length of a supersonic 2D nozzle design.*
 
