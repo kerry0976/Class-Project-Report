@@ -7,13 +7,13 @@ Here is the list:
 
 # California Polytechnic State University San Luis Obispo #
 
-##1) Propulsion - taught by Piyush M Mehta##
+## 1) Propulsion - taught by Piyush M Mehta ##
 
    **Investigation of Minimum Length of Supersonic 2D Nozzle Design Using the Method of Characteristics**
    
    *Summary: Using Method of Characteristics to investiggate the minimum length of a supersonic 2D nozzle design.*
 
-2) Macroeconomic Analysis taught by Michael Marlow  
+## 2) Macroeconomic Analysis taught by Michael Marlow ## 
 
    **An Analysis of the Exit Problem Facing the Fed from Quantitative Easing on Inflation**
    
