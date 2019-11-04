@@ -17,7 +17,7 @@ Here is the list:
 
    **An Analysis of the Exit Problem Facing the Fed from Quantitative Easing on Inflation**
    
-   *Summary: An quantitative analysis of effect of the exit problem due to quantitative Easing.* 
+   *Summary: An quantitative analysis of effect of the Exit problem due to Quantitative Easing.* 
    
 # University of Minnesota Twin Cities
 
@@ -31,13 +31,13 @@ Here is the list:
 
    **Modeling Additive Uncertainty in a longitudinal dynamic model using Convex Optimization techniques** 
    
-   *Summary: Implementation of uncertainty modeling using conex optimization techniques.*
+   *Summary: Implementation of uncertainty modeling using convex optimization techniques.*
    
 ## 3) Navigation and Guidance System  - taught by Demoz Gebre-Egizabher ## 
 
    **Relative Positioning Estimation using Double-Difference Carrier Phase Measurements with Integer Ambiguity                                Resolution**
    
-   *Summary: Estmiating a static relative distance using double-difference carrier phase measurement was demonstrated. Different integer     ambiguity methods were compared.* 
+   *Summary: Estimating a static relative distance using double-difference carrier phase measurement was demonstrated. Different integer     ambiguity methods were compared.* 
 
 ## 4) Introduction to Nonlinear Optimization - taught by Mingyi Hong ## 
 
