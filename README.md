@@ -5,11 +5,12 @@ Here I showcase some of the final projects I've done in the past. It was a good 
 
 Here is the list:
 
-# California Polytechnic State University San Luis Obispo 
+## California Polytechnic State University San Luis Obispo ##
 
 1) AERO 401 Propulsion 
 
    **Investigation of Minimum Length of Supersonic 2D Nozzle Design Using the Method of Characteristics**
+   
    *Abstract*: 
 
 2) GSE 512 Macroeconomic Analysis  
