@@ -7,7 +7,7 @@ Here is the list:
 
 # California Polytechnic State University San Luis Obispo #
 
-1) Propulsion - taught by Piyush M Mehta
+##1) Propulsion - taught by Piyush M Mehta##
 
    **Investigation of Minimum Length of Supersonic 2D Nozzle Design Using the Method of Characteristics**
    
